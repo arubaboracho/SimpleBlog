@@ -21,6 +21,6 @@ D:\Users\mninaber\Documents\Visual Studio 2012\Projects\3dbuzz\Classes\Web\Simpl
 D:\Users\mninaber\Documents\Visual Studio 2012\Projects\3dbuzz\Classes\Web\SimpleBlog\SimpleBlog\SimpleBlog\bin\System.Web.WebPages.xml
 D:\Users\mninaber\Documents\Visual Studio 2012\Projects\3dbuzz\Classes\Web\SimpleBlog\SimpleBlog\SimpleBlog\bin\System.Web.WebPages.Deployment.xml
 D:\Users\mninaber\Documents\Visual Studio 2012\Projects\3dbuzz\Classes\Web\SimpleBlog\SimpleBlog\SimpleBlog\bin\System.Web.WebPages.Razor.xml
-D:\Users\mninaber\Documents\Visual Studio 2012\Projects\3dbuzz\Classes\Web\SimpleBlog\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.csprojResolveAssemblyReference.cache
 D:\Users\mninaber\Documents\Visual Studio 2012\Projects\3dbuzz\Classes\Web\SimpleBlog\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.dll
 D:\Users\mninaber\Documents\Visual Studio 2012\Projects\3dbuzz\Classes\Web\SimpleBlog\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.pdb
+D:\Users\mninaber\Documents\Visual Studio 2012\Projects\3dbuzz\Classes\Web\SimpleBlog\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.csprojResolveAssemblyReference.cache
